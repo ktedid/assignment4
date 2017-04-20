@@ -1,3 +1,4 @@
+//Katee Coleman
 // The anonymous function below will fire on page load
 
 // Some things to consider
@@ -35,7 +36,7 @@
         $('.results').html("");
       } else {
         $('.results').html(searchResults);
-      }      
+      }
     });
   });
 })();
